@@ -3,13 +3,13 @@ MySQL sakila database analized with SQL
 [The report]()
 
 
-[Picture]
-	<img align="center" src=https://user-images.githubusercontent.com/111542025/229187731-b3a7895b-2733-4908-8482-c45d6a856ca4.jpg>
+<img align="center" src=https://user-images.githubusercontent.com/111542025/229187731-b3a7895b-2733-4908-8482-c45d6a856ca4.jpg>
 
 ## This is the 1st version
 
 ## Business Problem
 > Data source: [sakila](https://dev.mysql.com/doc/sakila/en/) database from MySQL
+
 The Sakila sample database was initially developed by Mike Hillyer, a former member of the MySQL AB documentation team. It is intended to provide a standard schema that can be used for examples in books, tutorials, articles, samples, and so forth. The Sakila sample database also serves to highlight features of MySQL such as Views, Stored Procedures, and Triggers.<br>
 For more information, visit the [site](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html) <br>
 For this specific dataset, a brief analysis was performed regarding rental frequency, rental duration, and average rental 
