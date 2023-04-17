@@ -22,6 +22,9 @@ We know that the DVD rental industry is practically bankrupt, but we do not take
 
 ## Solution Strategy
 In order to achieve some valuable insights, we used the database query language, SQL.
+* Step 01: SELECT;
+* Step 02: WHERE;
+* Step 03: GROUP BY & ORDER BY.
 
 ## Next Steps
 * Power BI Dashboard (Report)
