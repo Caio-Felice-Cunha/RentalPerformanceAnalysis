@@ -54,6 +54,17 @@ Each query groups by the primary key (for example `customer_id`, `staff_id`) and
 
 The script is read-only. It runs `SELECT` queries only and does not modify the database.
 
+### Validate the SQL without a database
+
+To check that the script parses cleanly before running it against a server, use the included static validator (no database required):
+
+```bash
+pip install -r requirements.txt
+python validate_sql.py
+```
+
+It parses every statement under the MySQL dialect with `sqlglot` and exits non-zero if anything fails to parse.
+
 ## Results
 
 No query outputs are committed to this repository, so no numbers are quoted here to avoid publishing figures that were not captured from a real run. Running the script against a loaded Sakila instance (see "How to run") reproduces every breakdown listed above. A future update can paste a few real outputs (for example the top customer by rentals and the average duration by category) once they are captured from an actual run.

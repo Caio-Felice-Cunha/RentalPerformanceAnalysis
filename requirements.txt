@@ -1,0 +1,3 @@
+# Only needed for the optional static SQL validator (validate_sql.py).
+# The analysis itself runs in MySQL and needs no Python.
+sqlglot>=25

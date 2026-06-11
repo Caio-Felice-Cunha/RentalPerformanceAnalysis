@@ -1,0 +1,10 @@
+# Python (only used by the optional validate_sql.py tool)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
