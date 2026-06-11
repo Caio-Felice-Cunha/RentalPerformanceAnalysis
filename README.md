@@ -1,6 +1,5 @@
 # Rental Performance Analysis
-MySQL sakila database analized with SQL
-[The report]()
+MySQL Sakila database analyzed with SQL
 
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/229187731-b3a7895b-2733-4908-8482-c45d6a856ca4.jpg>
